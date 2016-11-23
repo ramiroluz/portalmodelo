@@ -12,4 +12,6 @@ parts/
 products/
 src/
 var/
+import/
+uuid.txt
 /buildout.cfg
